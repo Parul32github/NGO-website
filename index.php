@@ -452,9 +452,10 @@
                 <div class="team-1">
                     <div class="pic">
                         <img src="./images/team3.jpg"class="img-fluid"alt="">
-                    </div>
+                    </div> 
                     <div class="team-info">
-                        <h4>Sonam sharma</h4>
+                        <h4>Sonam sharma
+                      </h4>
                         <span>Volunteer</span>
                         <div class="social">
                             <a href="">
