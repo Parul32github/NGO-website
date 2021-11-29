@@ -338,7 +338,7 @@
             <!--single Project-->
             <div class="col-10 col-md-6 col-lg-4">
                 <div class="project-container p-5 outline">
-                    <img src=".images/img-3.jpg"class="img-fluid grow"alt="">
+                    <img src="./images/img-3.jpg"class="img-fluid grow"alt="">
                     <a herf="donate.php"class="donation text-capitalize">Donate Now</a>
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-3</h4>
@@ -425,7 +425,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="team-1">
                     <div class="pic">
-                        <img src=".images/team2.jpg"class="img-fluid"alt="">
+                        <img src="./images/team2.jpg"class="img-fluid"alt="">
                     </div>
                     <div class="team-info">
                         <h4>Ayush kapoor</h4>
