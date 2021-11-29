@@ -314,7 +314,7 @@
              <!--single Project-->
              <div class="col-10 col-md-6 col-lg-4">
                  <div class="project-container p-5 outline">
-                     <img src=".images/img-1.jpg"class="img-fluid grow"alt="">
+                     <img src="./images/img-1.jpg"class="img-fluid grow"alt="">
                      <a herf="donate.php"class="donation text-capitalize">Donate Now</a>
                  </div>
                  <h4 class="text-capitalize text-center my-2">Project-1</h4>
@@ -326,7 +326,7 @@
              <!--single Project-->
              <div class="col-10 col-md-6 col-lg-4">
                 <div class="project-container p-5 outline">
-                    <img src="Images/img-2.jpg"class="img-fluid grow"alt="">
+                    <img src="./images/img-2.jpg"class="img-fluid grow"alt="">
                     <a herf="#"class="donation text-capitalize">Donate Now</a>
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-2</h4>
@@ -350,7 +350,7 @@
             <!--single Project-->
             <div class="col-10 col-md-6 col-lg-4">
                 <div class="project-container p-5 outline">
-                    <img src=".images/img-4.jpg"class="img-fluid grow"alt="">
+                    <img src="./images/img-4.jpg"class="img-fluid grow"alt="">
                     <a herf="donate.php"class="donation text-capitalize">Donate Now</a>
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-4</h4>
@@ -362,7 +362,7 @@
             <!--single Project-->
             <div class="col-10 col-md-6 col-lg-4">
                 <div class="project-container p-5 outline">
-                    <img src=".images/img-5.jpg"class="img-fluid grow"alt="">
+                    <img src="./images/img-5.jpg"class="img-fluid grow"alt="">
                     <a herf="donate.php"class="donation text-capitalize">Donate Now</a>
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-5</h4>
@@ -374,7 +374,7 @@
             <!--single Project-->
             <div class="col-10 col-md-6 col-lg-4">
                 <div class="project-container p-5 outline">
-                    <img src="Images/img-6.jpg"class="img-fluid grow"alt="">
+                    <img src="./images/img-6.jpg"class="img-fluid grow"alt="">
                     <a herf="donate.php"class="donation text-capitalize">Donate Now</a>
                 </div>
                 <h4 class="text-capitalize text-center my-2">Project-6</h4>
@@ -399,7 +399,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="team-1">
                     <div class="pic">
-                        <img src=".images/team1.jpg"class="img-fluid"alt="">
+                        <img src="./images/team1.jpg"class="img-fluid"alt="">
                     </div>
                     <div class="team-info">
                         <h4>Vijay Kumar</h4>
@@ -451,7 +451,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="team-1">
                     <div class="pic">
-                        <img src=".images/team3.jpg"class="img-fluid"alt="">
+                        <img src="./images/team3.jpg"class="img-fluid"alt="">
                     </div>
                     <div class="team-info">
                         <h4>Sonam sharma</h4>
@@ -477,7 +477,7 @@
             <div class="col-xl-3 col-lg-4 col-md-6">
                 <div class="team-1">
                     <div class="pic">
-                        <img src=".images/team4.jpg"class="img-fluid"alt="">
+                        <img src="./images/team4.jpg"class="img-fluid"alt="">
                     </div>
                     <div class="team-info">
                         <h4>Amit Kumar</h4>
